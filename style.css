@@ -24,7 +24,7 @@
    background-image: url(bg-1.jpg);
    background-attachment: fixed;
    width: 1550px;
-   height: 1600px; 
+   height: 1900px; 
    background-size: 100% 140%;
    margin-top: -10px;
 }
@@ -145,7 +145,6 @@
 .pt-3 {
     padding-top: 48px;
 }
-.ml-mr-auto {
-    margin-left: auto;
-    margin-right: auto;
+.ml-1 {
+    margin-left: 210px
 }
