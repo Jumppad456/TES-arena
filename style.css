@@ -139,8 +139,13 @@
   height:160px ;
   background-color: #e4b468;
 }
-.pb-3{
+.pb-3 {
     padding-bottom: 48px;
-.pt-3{
+}
+.pt-3 {
     padding-top: 48px;
-  }
+}
+.ml-mr-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
